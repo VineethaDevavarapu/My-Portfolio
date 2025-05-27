@@ -8,9 +8,6 @@
 <br/>
 
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
@@ -44,7 +41,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 2. In the project directory, you can run: `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 The page will reload if you make edits.
 
 ## Usage Instructions
